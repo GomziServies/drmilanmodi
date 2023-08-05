@@ -1,0 +1,48 @@
+@media (max-width: 575.98px) {
+  .home4-bg2 img {
+    width: 100%;
+  }
+
+  .team-head {
+    display: none;
+  }
+
+  .team-head-2 {
+    display: block;
+  }
+
+  .ab-brand img {
+    width: 145px;
+  }
+
+  .contact-img1 {
+    display: none;
+  }
+
+  .banner .block {
+    padding: 19px 0px 30px;
+  }
+
+  .block p{
+    width: 395px !important;
+  }
+
+  .service-item{
+    display: block !important; 
+  }  
+
+  .aaa{
+    margin-left: 0px !important;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+  .team-head {
+    display: block;
+  }
+
+  .service-item{
+    display: none !important; 
+  }
+}
