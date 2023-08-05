@@ -23,16 +23,22 @@
     padding: 19px 0px 30px;
   }
 
-  .block p{
+  .block p {
     width: 395px !important;
   }
 
-  .service-item{
-    display: block !important; 
-  }  
+  .service-item {
+    display: block !important;
+  }
 
-  .aaa{
+  .aaa {
     margin-left: 0px !important;
+  }
+
+
+  .float-button {
+    bottom: 70%;
+    font-size: 12px;
   }
 
 }
@@ -42,7 +48,7 @@
     display: block;
   }
 
-  .service-item{
-    display: none !important; 
+  .service-item {
+    display: none !important;
   }
 }

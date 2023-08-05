@@ -1809,7 +1809,7 @@ section {
 .glide__arrow img {
   display: block;
   width: 2rem;
-  background-color: var(--tertiary);
+  background-color: #016de0;
   padding: 0.5rem;
 }
 
