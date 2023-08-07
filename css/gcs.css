@@ -5,9 +5,9 @@
 }
 
 :root {
-  --primary: #0957a4;
+  --primary: #1973e7;
   --secondary: #bc2828 !important;
-  --tertiary: #0957a4;
+  --tertiary: #1973e7;
   --body: #FFF9F0;
   --txtDark: #353535;
   --txtLight: #616161;
@@ -3400,4 +3400,13 @@ lite-youtube.lyt-activated>.lty-playbtn {
 .slide-overlay p {
   font-size: 16px;
   text-align: center;
+}
+
+.modal-header .btn-close {
+  background: transparent;
+  border: none;
+}
+
+.modal-header .btn-close:hover {
+  opacity: 0.7;
 }
