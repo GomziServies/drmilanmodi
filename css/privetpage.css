@@ -11,6 +11,10 @@ ul {
   padding: 0;
 }
 
+.lyt-visually-hidden{
+  display: none;
+}
+
 h1,
 h2,
 h3,
