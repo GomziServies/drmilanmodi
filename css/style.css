@@ -1878,3 +1878,17 @@ p {
   background-color: #128c7e;
   color: #fff;
 }
+
+
+.personal-information {
+  border: 1px solid #4d516e;
+  max-width: 90%;
+  margin: 0 auto 20px;
+  padding: 15px;
+  background-color: #282b3c;
+}
+
+.card-profile-image {
+  position: relative;
+  text-align: center;
+}
